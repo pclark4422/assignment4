@@ -16,7 +16,7 @@
     }).success(function(data) {
       dataWrite(data);
     }).fail(function(data) {
-      $('#data').html("<p>Failed to Retrieve Data</p>")
+      $('#data').html("<p>Faile to Retrieve Data</p>")
     });
   });
 })();
