@@ -91,3 +91,8 @@ input:-moz-placeholder {
   line-height: 45px;
   text-align: center;
 }
+
+td{
+  border: thin solid black;
+  text-align: center;
+}
